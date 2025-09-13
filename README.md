@@ -4,6 +4,9 @@ A simple Python tool that fetches **real-time cryptocurrency prices** from the [
 Great for anyone interested in **FinTech, Blockchain, and APIs**.
 
 ---
+> 📝 Note: This project was started in **November 2023** and completed locally by **January 2024**.  
+> Later uploaded to GitHub for sharing and documentation.
+---
 
 ## 🚀 Features
 - Fetches live prices of Bitcoin, Ethereum, and Dogecoin.  
